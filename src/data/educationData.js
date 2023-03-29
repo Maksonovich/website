@@ -15,9 +15,9 @@ export const educationData = [
     },
     {
         id: 3,
-        institution: 'Baitus Saif Islamia Madrasah',
+        institution: 'School 2 , Kara-Balta',
         course: 'Secondary School',
-        startYear: '2008',
-        endYear: '2018'
+        startYear: '2012',
+        endYear: '2023'
     },
 ]

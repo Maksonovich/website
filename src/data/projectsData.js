@@ -8,26 +8,26 @@ export const projectsData = [
         projectName: 'ELEAN STORE',
         projectDesc: 'THis project about women smokings , it`s online store where any women can buy for theme great smoking.',
         tags: ['React', 'SAAS', 'Redux'],
-        code: '',
+        code: 'https://github.com/Maksonovich/Elean-Store',
         demo: 'https://elean-store.vercel.app/',
         image: six
     },
     {
         id: 2,
-        projectName: 'ALLEGRIA',
+        projectName: 'Landing-Page',
         projectDesc: 'This project about wears.',
-        tags: ['javaScript', 'css', 'HTML'],
-        code: 'https://github.com/Maksonovich/Allegria',
-        demo: 'https://allegria.vercel.app/https://allegria.vercel.app/',
+        tags: ['javaScript', 'Styled-components', 'React'],
+        code: 'https://github.com/Maksonovich/StyledComponentsPractise',
+        demo: 'https://github.com/Maksonovich/StyledComponentsPractise',
         image: seven
     },
     {
         id: 3,
-        projectName: 'Quiz App',
+        projectName: 'T-Shirt Editor',
         projectDesc: 'This is Quiz App.',
         tags: ['JavaScript', 'CSS', 'HTTP'],
-        code: 'https://github.com/Maksonovich/AppleS.git',
-        demo: 'https://apple-s.vercel.app/',
+        code: 'https://github.com/Maksonovich/t-shirteditor.git',
+        demo: 'https://github.com/Maksonovich/t-shirteditor.git',
         image: eight
     }
 ]

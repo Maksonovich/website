@@ -14,20 +14,20 @@ export const projectsData = [
     },
     {
         id: 2,
-        projectName: 'Landing-Page',
-        projectDesc: 'This project about wears.',
-        tags: ['javaScript', 'Styled-components', 'React'],
-        code: 'https://github.com/Maksonovich/StyledComponentsPractise',
-        demo: 'https://github.com/Maksonovich/StyledComponentsPractise',
+        projectName: 'Netflix',
+        projectDesc: 'it was cool project',
+        tags: ['typescript', 'Tailwind', 'Next js'],
+        code: 'https://github.com/Maksonovich/netflix',
+        demo: 'https://github.com/Maksonovich/netflix',
         image: seven
     },
     {
         id: 3,
-        projectName: 'T-Shirt Editor',
-        projectDesc: 'This is Quiz App.',
-        tags: ['JavaScript', 'CSS', 'HTTP'],
-        code: 'https://github.com/Maksonovich/t-shirteditor.git',
-        demo: 'https://github.com/Maksonovich/t-shirteditor.git',
+        projectName: 'landing with slider',
+        projectDesc: 'This is simple page',
+        tags: ['React', 'Bootstrap', 'Styled-Component'],
+        code: 'https://github.com/Maksonovich/Yanki.git',
+        demo: 'https://yanki-ecru.vercel.app/',
         image: eight
     }
 ]
